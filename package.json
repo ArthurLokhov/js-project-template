@@ -1,0 +1,34 @@
+{
+  "name": "js-project-template",
+  "version": "1.0.0",
+  "description": "JavaScript Project Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurLokhov/js-project-template.git"
+  },
+  "keywords": [
+    "js",
+    "template",
+    "configs"
+  ],
+  "author": "Arthur Lokhov <arthurlokhov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurLokhov/js-project-template/issues"
+  },
+  "homepage": "https://github.com/ArthurLokhov/js-project-template#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.30.6",
+    "@typescript-eslint/parser": "^5.30.6",
+    "eslint": "^8.19.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "2.7.1",
+    "stylelint": "^14.9.1",
+    "stylelint-config-standard": "^26.0.0",
+    "stylelint-lsp": "^1.2.4"
+  }
+}
